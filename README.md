@@ -1,12 +1,12 @@
 # WEB_BOARD
 웹 게시판 구현하기(JSP)
 
-<hr>
+
 Controller     Model            View
 url 요청 -> 로직처리  서블릿 -> 뷰(View) jsp 페이지
             자바 코딩
             포워딩/리다이렉트 
-<hr> 
+
 
 [패키지]
 days04.board : List.java, View.java, Write.java, Edit.java, Delete 서블릿
