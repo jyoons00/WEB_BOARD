@@ -18,4 +18,9 @@ DBConn.java 파일 내부에서 사용자명, 비밀번호, 로컬 호스트 수
 <br>
 [자바 이클립스]<br>
 WEB_BOARD/BOARDClass/jspPro/src/main/webapp/days04/ex04.js 파일 실행<br>
-
+[구현기능]<br>
+게시글 작성<br>
+게시글 수정<br>
+게시글 삭제<br>
+페이지 이동<br>
+제목, 내용 검색<br>
