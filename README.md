@@ -1,5 +1,5 @@
 # WEB_BOARD<br>
-웹 게시판 구현하기(JSP)<br><br>
+웹 게시판 구현하기(JSP)<br>
 
 Controller     Model            View <br>
 url 요청 -> 로직처리  서블릿 -> 뷰(View) jsp 페이지<br>
