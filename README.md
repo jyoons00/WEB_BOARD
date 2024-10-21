@@ -15,7 +15,7 @@ days04.board.persistence : BoardDAO.java(인터페이스), BoardDAOImpl.java<br>
 DBConn.java 파일 내부에서 사용자명, 비밀번호, 로컬 호스트 수정 <br>
 .SQL 파일로 시퀸스, 테이블, 레코드 삽입<br>
 <br>
-[자바 이클립스]<br>
+[자바 이클립스, 톰캣(WAS), 롬복 사용]<br>
 WEB_BOARD/BOARDClass/jspPro/src/main/webapp/days04/ex04.js 파일 실행<br><br>
 
 [구현기능]<br>
