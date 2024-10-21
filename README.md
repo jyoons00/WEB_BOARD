@@ -4,8 +4,7 @@
 Controller     Model            View <br>
 url 요청 -> 로직처리  서블릿 -> 뷰(View) jsp 페이지<br>
             자바 코딩<br>
-            포워딩/리다이렉트 <br>
-<hr>
+            포워딩/리다이렉트 <br><br>
 [패키지]<br>
 days04.board : List.java, View.java, Write.java, Edit.java, Delete 서블릿<br>
 days04.board.domain : BoardDTO.java, PagingDTO.java<br>
@@ -24,4 +23,5 @@ WEB_BOARD/BOARDClass/jspPro/src/main/webapp/days04/ex04.js 파일 실행<br><br>
 게시글 수정<br>
 게시글 삭제<br>
 페이지 이동<br>
+페이지 항목 갯수 변경<br>
 제목, 내용 검색<br>
